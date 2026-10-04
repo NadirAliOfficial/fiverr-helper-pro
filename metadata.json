@@ -1,0 +1,6 @@
+{
+  "name": "Fiverr Helper",
+  "description": "Essential freelancer toolkit for Fiverr sellers: Gig SEO optimizer, earnings & 20% fee calculator, quick reply templates, order tracker, and AI proposal generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
